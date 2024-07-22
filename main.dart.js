@@ -96323,7 +96323,7 @@ A.a0U.prototype={}
 A.vO.prototype={
 J(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.T8(!0,A.cD(A.em(A.b([B.a0y,B.m0,A.cb(r==null?"page not found":r,s,s,s,s,s,s,s),B.m0,new A.HD(new A.acc(a),B.a0t,s)],t.p),B.R,B.aQ,B.S),s,s),!0)}}
+return A.T8(!0,A.cD(A.em(A.b([B.a0y,B.m0,A.cb(r==null?"page not found":r,s,s,s,s,s,s,s),B.m0,new A.HD(new A.acc(a),B.a0s,s)],t.p),B.R,B.aQ,B.S),s,s),!0)}}
 A.acc.prototype={
 $0(){return A.aFF(this.a).Fm(0,"/",null)},
 $S:0}
@@ -103845,7 +103845,7 @@ ayF(a){return this.Ds(0,null,null,null)},
 LI(a,b){return this.Ds(0,null,b,null)}}
 A.R8.prototype={
 J(a){var s=A.GL(null,B.Ey,!1)
-return new A.EU(new A.ws($.aSl(),A.aX7(),"Sample Test",s,!1,null),B.Vy,null)}}
+return new A.EU(new A.ws($.aSl(),A.aX7(),"VCO Online Test",s,!1,null),B.Vy,null)}}
 A.tT.prototype={
 a7(){return new A.a2e(B.j)}}
 A.a2e.prototype={
@@ -104202,7 +104202,7 @@ A.VO.prototype={
 ao(){this.d.zf().c0(new A.arS(this),t.P)
 this.aC()},
 J(a){var s=null,r=A.V(a),q=this.e,p=t.p
-return new A.GP("Masan's Test | Admin",r.fx,A.Ta(s,A.dD(A.b([B.Cd,A.jg(A.aGs(new A.cG(B.hi,A.em(A.b([new A.Gq(q,s),B.GR,new A.DP(q,s)],p),B.bM,B.a5,B.S),s),s,s,B.b4),1)],p),B.bM,B.a5,B.S)),s)}}
+return new A.GP("VCO Online's Test | Admin",r.fx,A.Ta(s,A.dD(A.b([B.Cd,A.jg(A.aGs(new A.cG(B.hi,A.em(A.b([new A.Gq(q,s),B.GR,new A.DP(q,s)],p),B.bM,B.a5,B.S),s),s,s,B.b4),1)],p),B.bM,B.a5,B.S)),s)}}
 A.arS.prototype={
 $1(a){var s=this.a
 s.e=a
@@ -104300,7 +104300,7 @@ A.a2I.prototype={
 aot(a){var s=a.a,r=s<0?"-":"",q=new A.aAx()
 return r+q.$1(Math.abs(B.e.ck(s,6e7)))+":"+q.$1(Math.abs(B.e.ck(s,1e6)%60))},
 J(a){var s,r,q,p,o,n=null,m=A.V(a).p3.r,l=t.p
-m=A.dD(A.b([A.jg(A.cb("Test's result",n,n,n,m==null?n:m.Zi(B.aM),n,n,n),1),A.c9(n,n,16),A.xO(B.a0v,new A.aAz(this),n)],l),B.R,B.a5,B.S)
+m=A.dD(A.b([A.jg(A.cb("Test's result",n,n,n,m==null?n:m.Zi(B.aM),n,n,n),1),A.c9(n,n,16),A.xO(B.a0u,new A.aAz(this),n)],l),B.R,B.a5,B.S)
 s=A.o5(B.n,1)
 r=J.km(4,t.l7)
 for(q=0;q<4;++q){p=new A.ba(B.n,1,B.E,-1)
@@ -104729,7 +104729,7 @@ A.aAf.prototype={
 $0(){this.a.yq(-1)},
 $S:0}
 A.aAv.prototype={
-$1(a){return A.a6N(A.b([A.xO(B.a0B,new A.aAt(a),null),A.xO(B.a0x,new A.aAu(a),null)],t.p),B.a0u,B.a0w)},
+$1(a){return A.a6N(A.b([A.xO(B.a0B,new A.aAt(a),null),A.xO(B.a0x,new A.aAu(a),null)],t.p),B.a0t,B.a0w)},
 $S:87}
 A.aAt.prototype={
 $0(){A.hQ(this.a,!1).oB(null)},
@@ -104761,7 +104761,7 @@ A.aEc(new A.aAr(),k,t.z).c0(new A.aAs(k),t.H)}return A.Q(null,r)}})
 return A.R($async$$1,r)},
 $S:117}
 A.aAr.prototype={
-$1(a){return A.a6N(A.b([A.xO(B.a0A,new A.aAq(a),null)],t.p),B.a0r,B.a0s)},
+$1(a){return A.a6N(A.b([A.xO(B.a0A,new A.aAq(a),null)],t.p),B.a0v,B.a0r)},
 $S:87}
 A.aAq.prototype={
 $0(){A.hQ(this.a,!1).oB(!0)},
@@ -111793,13 +111793,13 @@ B.a_0=new A.u(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,
 B.a0p=new A.ec(B.ZJ,B.a02,B.a_I,B.Ya,B.a_B,B.ZC,B.a07,B.YL,B.Zg,B.a_t,B.Y1,B.a_K,B.a_y,B.a_p,B.a_0)
 B.a0q=new A.UO(0,"WrapText")
 B.BB=new A.UO(1,"Clip")
-B.a0r=new A.eR("Masan Consumer thank you for your effort and time. We will inform you of your test result soon.",null,null,null,null,null,null,null,null,null)
-B.a0s=new A.eR("Thank you",null,null,null,null,null,null,null,null,null)
+B.a0r=new A.eR("Thank you",null,null,null,null,null,null,null,null,null)
 B.BC=new A.eR("Home",null,null,null,null,null,null,null,null,null)
 B.ZT=new A.u(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0t=new A.eR("Go to home page",null,B.ZT,null,null,null,null,null,null,null)
-B.a0u=new A.eR("Are you sure you want to submit this?",null,null,null,null,null,null,null,null,null)
-B.a0v=new A.eR("Export Data",null,null,null,null,null,null,null,null,null)
+B.a0s=new A.eR("Go to home page",null,B.ZT,null,null,null,null,null,null,null)
+B.a0t=new A.eR("Are you sure you want to submit this?",null,null,null,null,null,null,null,null,null)
+B.a0u=new A.eR("Export Data",null,null,null,null,null,null,null,null,null)
+B.a0v=new A.eR("VCO thank you for your effort and time. We will inform you of your test result soon.",null,null,null,null,null,null,null,null,null)
 B.a0w=new A.eR("Submit Alert?",null,null,null,null,null,null,null,null,null)
 B.ZG=new A.u(!0,B.n,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0x=new A.eR("Submit",null,B.ZG,null,null,null,null,null,null,null)
