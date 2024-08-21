@@ -108245,7 +108245,7 @@ case 3:return""}}}
 A.us.prototype={
 a5(){var s=$.hj,r=(s==null?$.hj=$.qM():s).od("[DEFAULT]")
 A.j3(r,$.mq(),!0)
-return new A.a4z(new A.amj(A.lr(A.wq(new A.iL(r)).gpG().pa("Question"))),new A.FB(),A.aJH(),A.b([],t.ky),A.b([],t.t),B.j)}}
+return new A.a4z(new A.amj(A.lr(A.wq(new A.iL(r)).gpG().pa("NewQuestion"))),new A.FB(),A.aJH(),A.b([],t.ky),A.b([],t.t),B.j)}}
 A.a4z.prototype={
 aqj(a){var s=a.a,r=s<0?"-":"",q=new A.aDF()
 return r+q.$1(Math.abs(B.e.cj(s,6e7)))+":"+q.$1(Math.abs(B.e.cj(s,1e6)%60))},
